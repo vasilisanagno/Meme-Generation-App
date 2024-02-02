@@ -1,6 +1,6 @@
 # Meme-Generation-App
 
-This application allows users to upload portrait images in various formats (png/jpeg/tiff) and customize them with a diverse set of filters for meme creation.
+An application in Python for portrait editing and meme creation. This application allows users to upload portrait images in various formats (png/jpeg/tiff) and customize them with a diverse set of filters for meme creation.
 
 ## Features
 
