@@ -1,6 +1,6 @@
 # Meme-Generation-App
 
-This application allows users to upload portrait images in various formats (png/jpeg/tiff) and customize them with a set of filters for meme creation.
+This application allows users to upload portrait images in various formats (png/jpeg/tiff) and customize them with a diverse set of filters for meme creation.
 
 ## Features
 
@@ -14,10 +14,42 @@ This application allows users to upload portrait images in various formats (png/
   - Option to save the edited meme in jpeg format.
   - Clear canvas feature for trying different filters.
 
+## Available Filters and Features
+
+1. **Gaussian Blur Filter:**
+   - Blurs the image using a Gaussian filter.
+
+2. **Laplacian Filter:**
+   - Applies a Laplacian filter to highlight edges in the image.
+
+3. **Color Boosting:**
+   - Enhances the colors in the image for a vibrant look.
+
+4. **Sharpening Filter:**
+   - Sharpens the image to bring out details.
+
+5. **Sepia Filter:**
+   - Adds a sepia tone to the image for a vintage effect.
+
+6. **Box Blur Filter:**
+   - Blurs the image using a box blur filter.
+
+7. **Face Detection:**
+   - Detects faces in the image.
+
+8. **Meme Placement (Mask/Hat):**
+   - Places a meme (mask or hat) from the `meme_assets` folder on detected faces.
+
+9. **Eyes Detection:**
+   - Detects eyes in the image.
+
+10. **Meme Placement (Eye Mask/Glasses):**
+    - Places a meme (eye mask or glasses) from the `meme_assets` folder on detected eyes.
+
 ## How It Works
 
 1. Upload a portrait image.
-2. Choose from a variety of filters for meme customization.
+2. Choose from a variety of filters and features for meme customization.
 3. Save the meme in jpeg format or clear the canvas for further editing.
 
 ## Running the Notebook
