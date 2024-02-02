@@ -12,9 +12,9 @@ An application in Python for portrait editing and meme creation. This applicatio
 
 - **Save and Clear Canvas:**
   - Option to save the edited meme in jpeg format.
-  - Clear canvas feature for trying different filters.
+  - Clear canvas feature for trying different filters and algorithms.
 
-## Available Filters and Features
+## Available Filters and Algorithms
 
 1. **Gaussian Blur Filter:**
    - Blurs the image using a Gaussian filter.
@@ -49,7 +49,7 @@ An application in Python for portrait editing and meme creation. This applicatio
 ## How It Works
 
 1. Upload a portrait image.
-2. Choose from a variety of filters and features for meme customization.
+2. Choose from a variety of filters and algorithms for meme customization.
 3. Save the meme in jpeg format or clear the canvas for further editing.
 
 ## Running the Notebook
