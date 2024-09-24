@@ -12,6 +12,7 @@ An application in Python for portrait editing and meme creation. This applicatio
 - [How It Works](#how-it-works)
 - [Running the Notebook](#running-the-notebook)
   - [Dependencies](#dependencies)
+- [Meme Examples](#meme-examples)
 
 ## Features
 
@@ -88,3 +89,19 @@ You can install these dependencies using the following command and run the app:
 pip install numpy matplotlib imageio opencv-python
 jupyter notebook Project.ipynb
 ```
+
+## Meme Examples
+
+Here are some examples of memes created using the app:
+
+1. **Meme with Hat:**
+   ![Sepia Filter Example](path/to/sepia_image.jpg)
+   
+2. **Meme with Mask:**
+   ![Mask and Glasses Example](path/to/mask_glasses_image.jpg)
+
+3. **Meme with Hat and Glasses:**
+   ![Color Boosting Example](path/to/color_boost_image.jpg)
+
+4. **Sharpened Portrait with Hat:**
+   ![Sharpened Image Example](path/to/hat_image.jpg)
