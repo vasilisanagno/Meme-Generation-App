@@ -95,12 +95,13 @@ jupyter notebook Project.ipynb
 Here are some examples of memes created using the app:
 
 1. **Meme with Hat:**
-   
+
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
 
-   Arrow:  
-   ![Arrow Image](readme_images/arrow_image.png)
+   <div style="text-align: center;">
+     <img src="readme_images/arrow_image.png" alt="Arrow Image" width="100" height="100">
+   </div>
 
    Meme with Hat:  
    ![Meme Image](path/to/meme_hat_image.jpg)
