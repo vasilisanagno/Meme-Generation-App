@@ -123,7 +123,7 @@ Here are some examples of memes created using the app:
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
 
-   <div style="text-align: center; font-size: 48px;">
+   <div style="text-align: center; font-size: 100px;">
    ⬇️
    </div> 
 
@@ -135,7 +135,7 @@ Here are some examples of memes created using the app:
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
 
-   <div style="text-align: center; font-size: 48px;">
+   <div style="text-align: center; font-size: 100px;">
    ⬇️
    </div>  
 
