@@ -97,14 +97,14 @@ Here are some examples of memes created using the app:
 1. **Meme with Hat:**
 
    Original Image:  
-   ![Original Image](path/to/original_image.jpg)
+   ![Original Image](project_images/original_image.jpg)
 
    <div style="text-align: center;">
-     <img src="readme_images/arrow_image.png" alt="Arrow Image" width="100" height="100">
+     <img src="readme_images/arrow_image.png" alt="Arrow Image" width="120" height="120">
    </div>
 
    Meme with Hat:  
-   ![Meme Image](path/to/meme_hat_image.jpg)
+   ![Meme Image](created_memes/meme_hat_image.jpg)
 
 3. **Meme with Mask:**
 
