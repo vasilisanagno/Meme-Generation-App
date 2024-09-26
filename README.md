@@ -97,10 +97,10 @@ Here are some examples of memes created using the app:
 1. **Meme with hat and glasses:**
  
    Original Image:  
-   <div style="text-align: center; padding-top: 10">
+   <div style="text-align: center; padding-top: 10; position: relative;">
      <img src="project_images/obama.png" alt="Original Image" width="300">
      <div style="position: relative; display: inline-block; margin-left: 100;">
-        <img src="readme_images/arrow_image.png" alt="Arrow Image" width="120" height="120" style="position: absolute; top: -60px; left: 50%; transform: translateX(-50%);">
+        <img src="readme_images/arrow_image.png" alt="Arrow Image" width="120" height="120">
      </div>
    </div>
 
