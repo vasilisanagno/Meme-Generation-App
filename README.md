@@ -99,7 +99,9 @@ Here are some examples of memes created using the app:
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
 
-   ⬇️  
+   <div style="text-align: center; font-size: 48px;">
+   ⬇️
+   </div>
 
    Meme with Hat:  
    ![Meme Image](path/to/hat_image.jpg)
@@ -109,7 +111,9 @@ Here are some examples of memes created using the app:
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
 
-   ⬇️  
+   <div style="text-align: center; font-size: 48px;">
+   ⬇️
+   </div> 
 
    Meme with Mask:  
    ![Meme Image](path/to/mask_image.jpg)
@@ -119,7 +123,9 @@ Here are some examples of memes created using the app:
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
 
-   ⬇️  
+   <div style="text-align: center; font-size: 48px;">
+   ⬇️
+   </div> 
 
    Meme with Hat and Glasses:  
    ![Meme Image](path/to/hat_glasses_image.jpg)
@@ -129,7 +135,9 @@ Here are some examples of memes created using the app:
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
 
-   ⬇️  
+   <div style="text-align: center; font-size: 48px;">
+   ⬇️
+   </div>  
 
    Sharpened Portrait with Hat:  
    ![Meme Image](path/to/sharpened_hat_image.jpg)
