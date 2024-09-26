@@ -94,15 +94,11 @@ jupyter notebook Project.ipynb
 
 Here are some examples of memes created using the app:
 
-1. **Meme with hat and glasses:**
+1. **Meme with hat and glasses with changes in colors:**
  
    Original Image:  
    <div style="text-align: center; padding-top: 10;">
      <img src="project_images/obama.png" alt="Original Image" width="300">
-   </div>
-
-   <div style="text-align: center; padding-left: 200; width: 800">
-     <img src="readme_images/arrow_image.png" alt="Arrow Image" width="120" height="120">
    </div>
 
    Meme Image:
@@ -110,38 +106,38 @@ Here are some examples of memes created using the app:
      <img src="created_memes/meme1.jpeg" alt="Original Image" width="300">
    </div>
 
-3. **Meme with Mask:**
+2. **Meme with Mask:**
 
    Original Image:  
-   ![Original Image](path/to/original_image.jpg)
+   <div style="text-align: center; padding-top: 10;">
+     <img src="project_images/obama.png" alt="Original Image" width="300">
+   </div>
 
-   <div style="text-align: center; font-size: 48px;">
-   ⬇️
-   </div> 
+   Meme Image:
+   <div style="text-align: center; padding-top: 10">
+     <img src="created_memes/meme1.jpeg" alt="Original Image" width="300">
+   </div>
 
-   Meme with Mask:  
-   ![Meme Image](path/to/mask_image.jpg)
-
-4. **Meme with Hat and Glasses:**
-
-   Original Image:  
-   ![Original Image](path/to/original_image.jpg)
-
-   <div style="text-align: center; font-size: 100px;">
-   ⬇️
-   </div> 
-
-   Meme with Hat and Glasses:  
-   ![Meme Image](path/to/hat_glasses_image.jpg)
-
-5. **Sharpened Portrait with Hat:**
+3. **Meme with Hat and Glasses:**
 
    Original Image:  
-   ![Original Image](path/to/original_image.jpg)
+   <div style="text-align: center; padding-top: 10;">
+     <img src="project_images/obama.png" alt="Original Image" width="300">
+   </div>
 
-   <div style="text-align: center; font-size: 100px;">
-   ⬇️
-   </div>  
+   Meme Image:
+   <div style="text-align: center; padding-top: 10">
+     <img src="created_memes/meme1.jpeg" alt="Original Image" width="300">
+   </div>
 
-   Sharpened Portrait with Hat:  
-   ![Meme Image](path/to/sharpened_hat_image.jpg)
+4. **Sharpened Portrait with Hat:**
+
+   Original Image:  
+   <div style="text-align: center; padding-top: 10;">
+     <img src="project_images/obama.png" alt="Original Image" width="300">
+   </div>
+
+   Meme Image:
+   <div style="text-align: center; padding-top: 10">
+     <img src="created_memes/meme1.jpeg" alt="Original Image" width="300">
+   </div>
