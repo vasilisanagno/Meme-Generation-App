@@ -99,10 +99,7 @@ Here are some examples of memes created using the app:
    Original Image:  
    <div style="text-align: center; padding-top: 10">
      <img src="project_images/obama.png" alt="Original Image" width="300">
-   </div>
-
-   <div style="text-align: center;">
-     <img src="readme_images/arrow_image.png" alt="Arrow Image" width="120" height="120">
+     <img src="readme_images/arrow_image.png" alt="Arrow Image" width="120" height="120" padding-top="20">
    </div>
 
    Meme Image:
