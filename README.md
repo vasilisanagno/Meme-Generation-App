@@ -94,7 +94,7 @@ jupyter notebook Project.ipynb
 
 Here are some examples of memes created using the app:
 
-1. **Meme with hat and glasses with changes in colors:**
+1. **Meme with hat, glasses and changes from filters:**
  
    Original Image:  
    <div style="text-align: center; padding-top: 10;">
@@ -103,41 +103,41 @@ Here are some examples of memes created using the app:
 
    Meme Image:
    <div style="text-align: center; padding-top: 10">
-     <img src="created_memes/meme1.jpeg" alt="Original Image" width="300">
+     <img src="created_memes/meme1.jpeg" alt="Meme Image" width="300">
    </div>
 
-2. **Meme with Mask:**
+2. **Meme with eye-mask and changes from filters:**
 
    Original Image:  
    <div style="text-align: center; padding-top: 10;">
-     <img src="project_images/obama.png" alt="Original Image" width="300">
+     <img src="project_images/girl.jpeg" alt="Original Image" width="300">
    </div>
 
    Meme Image:
    <div style="text-align: center; padding-top: 10">
-     <img src="created_memes/meme1.jpeg" alt="Original Image" width="300">
+     <img src="created_memes/meme2.jpeg" alt="Meme Image" width="300">
    </div>
 
-3. **Meme with Hat and Glasses:**
+3. **Meme with face-mask and changes from filters:**
 
    Original Image:  
    <div style="text-align: center; padding-top: 10;">
-     <img src="project_images/obama.png" alt="Original Image" width="300">
+     <img src="project_images/tom_cruise.jpg" alt="Original Image" width="300">
    </div>
 
    Meme Image:
    <div style="text-align: center; padding-top: 10">
-     <img src="created_memes/meme1.jpeg" alt="Original Image" width="300">
+     <img src="created_memes/meme3.jpeg" alt="Meme Image" width="300">
    </div>
 
-4. **Sharpened Portrait with Hat:**
+4. **Meme with hat, glasses and changes from filters:**
 
    Original Image:  
    <div style="text-align: center; padding-top: 10;">
-     <img src="project_images/obama.png" alt="Original Image" width="300">
+     <img src="project_images/dwayne_johnson.jpg" alt="Original Image" width="300">
    </div>
 
    Meme Image:
    <div style="text-align: center; padding-top: 10">
-     <img src="created_memes/meme1.jpeg" alt="Original Image" width="300">
+     <img src="created_memes/meme4.jpeg" alt="Meme Image" width="300">
    </div>
