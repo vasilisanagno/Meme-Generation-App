@@ -95,18 +95,17 @@ jupyter notebook Project.ipynb
 Here are some examples of memes created using the app:
 
 1. **Meme with Hat:**
-
+   
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
 
-   <div style="text-align: center; font-size: 48px;">
-   ⬇️
-   </div>
+   Arrow:  
+   ![Arrow Image](readme_images/arrow_image.png)
 
    Meme with Hat:  
-   ![Meme Image](path/to/hat_image.jpg)
+   ![Meme Image](path/to/meme_hat_image.jpg)
 
-2. **Meme with Mask:**
+3. **Meme with Mask:**
 
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
@@ -118,7 +117,7 @@ Here are some examples of memes created using the app:
    Meme with Mask:  
    ![Meme Image](path/to/mask_image.jpg)
 
-3. **Meme with Hat and Glasses:**
+4. **Meme with Hat and Glasses:**
 
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
@@ -130,7 +129,7 @@ Here are some examples of memes created using the app:
    Meme with Hat and Glasses:  
    ![Meme Image](path/to/hat_glasses_image.jpg)
 
-4. **Sharpened Portrait with Hat:**
+5. **Sharpened Portrait with Hat:**
 
    Original Image:  
    ![Original Image](path/to/original_image.jpg)
